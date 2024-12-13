@@ -64,5 +64,4 @@ We welcome contributions! Feel free to fork the repository, make your changes, a
 
 ---
 
-**Developed with ❤️ by Sinan Bandi**
-
+<p align="center"><strong>Developed with ❤️ by Sinan Bandi</strong></p> 
